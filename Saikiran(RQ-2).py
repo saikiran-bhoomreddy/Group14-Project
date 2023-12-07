@@ -4,7 +4,8 @@ from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.linear_model import LinearRegression
 
 # Load data
-df = pd.read_csv("C:\\Users\\bhomr\\Desktop\\Software Engineering\\output.csv")  # Replace with your actual file path
+df = pd.read_csv("C:\\Users\\bhomr\\Desktop\\Software Engineering\\output.csv")  # File Path
+
 
 # Explore data
 print(df.head())
@@ -17,7 +18,7 @@ vectorizer = CountVectorizer()
 X = vectorizer.fit_transform(df['Prompt'])
 y = df['WordCount']
 
-# Train the model
+# Training the model
 model = LinearRegression()
 model.fit(X, y)
 
