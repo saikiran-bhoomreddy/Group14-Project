@@ -2,6 +2,11 @@ Group 14 (Software Engineering )
 -------------------------------------------------------------
 
 File 1: Dushyanth (RQ-1).ipynb is handled and curated by Dushyanth Bandaru (DB22BC)
+--------------------------------------------------------------------------------------The first phase consits of extraction of data from the latest dataset available on github repository using webscraping tools like pypeteer.
+
+Second part consisted of designing and training of model ( Sentiment Analysis Predictor) to find out the average no.of iterations required to come to a satisfactory resolution.
+
+Third part,tried to design a accuracy model for sentimemt analysis predictor.
 
 File 2: SE_Project_Yaswanth Reddy Ambati(RQ-3).ipynb is handled and curated by YASWANTH REDDY AMBATI (YA23A)
 ----------------------------------------------------------------------------------------
