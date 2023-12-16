@@ -2,7 +2,8 @@ Group 14 (Software Engineering )
 -------------------------------------------------------------
 
 File 1: Dushyanth (RQ-1).ipynb is handled and curated by Dushyanth Bandaru (DB22BC)
---------------------------------------------------------------------------------------The first phase consits of extraction of data from the latest dataset available on github repository using webscraping tools like pypeteer.
+-----------------------------------------------------------------------------------------
+The first phase consits of extraction of data from the latest dataset available on github repository using webscraping tools like pypeteer.
 
 Second part consisted of designing and training of model ( Sentiment Analysis Predictor) to find out the average no.of iterations required to come to a satisfactory resolution.
 
