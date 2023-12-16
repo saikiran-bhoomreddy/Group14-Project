@@ -4,6 +4,12 @@ Group 14 (Software Engineering )
 File 1: Dushyanth (RQ-1).ipynb is handled and curated by Dushyanth Bandaru (DB22BC)
 
 File 2: SE_Project_Yaswanth Reddy Ambati(RQ-3).ipynb is handled and curated by YASWANTH REDDY AMBATI (YA23A)
+----------------------------------------------------------------------------------------
+->Initial Part of the file contains Code used to load the the JSON data file from the DEVGPT file from GitHub.
+->Second part of the code is used to install the libraries which are radon and lizard from Python, if they are not installed already.I had then written the logic part to find the complexities.
+->Third part of the code is to print the average complexities of each code present in the given file by the user.
+->Fourth part of the code is to print the average complexities of each programming language and displaying the results in the output.
+->The last part of the code is to plot a graph based on the output results .
 
 file 3:Saikiran(RQ-2).ipynb is handled and curated by SAI KIRAN BHOOMREDDY (SB23BT) 
 ----------------------------------------------------------------------------------------
